@@ -1,6 +1,6 @@
 # Universidad Mariano Gálvez de Guatemala
 - Curso: Análisis de Sistemas I
-- Catedrático: Josué Barillas
+- Catedrático: Ing. Antonio Josué Barillas
 - Laboratorio: 3
 # Datos Personales
 - Nombre: Bryan Iván González Jiménez
